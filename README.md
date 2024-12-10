@@ -1,2 +1,2 @@
 # Python
-My Assignments
+Basics of Python and Assignments
